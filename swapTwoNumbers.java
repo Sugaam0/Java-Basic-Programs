@@ -9,11 +9,11 @@ public class swapTwoNumbers {
             int a = s1.nextInt();
             int b = s1.nextInt();
 
-            swapTwoNumbers(a,b);
+            swapNumbers(a,b);
 
             s1.close();
         }
-        static void swapTwoNumbers(int a ,int b)
+        static void swapNumbers(int a ,int b)
             {
         int temp;
         temp = a;

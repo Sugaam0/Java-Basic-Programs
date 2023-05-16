@@ -1,3 +1,4 @@
+package BasicPrograms;
 //convert binary to decimal
 
 

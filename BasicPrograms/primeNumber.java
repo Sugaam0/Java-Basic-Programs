@@ -1,3 +1,4 @@
+package BasicPrograms;
 //Java Program to Display All Prime Numbers from 1 to N
 
 public class primeNumber {

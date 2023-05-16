@@ -1,3 +1,4 @@
+package BasicPrograms;
 //Java Program to Swap Two Numbers
 
 import java.util.Scanner;

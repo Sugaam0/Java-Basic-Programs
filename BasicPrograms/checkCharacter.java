@@ -1,3 +1,4 @@
+package BasicPrograms;
 //Java Program to Check whether input character is vowel or consonant
 
 

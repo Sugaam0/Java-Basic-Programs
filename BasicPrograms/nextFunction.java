@@ -1,5 +1,6 @@
+package BasicPrograms;
 import java.util.*;
-import java.io.*;
+// import java.io.*;
 
 public class nextFunction {
     public static void main(String[] args) {

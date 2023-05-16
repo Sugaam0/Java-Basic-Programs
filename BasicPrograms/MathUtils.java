@@ -1,3 +1,4 @@
+package BasicPrograms;
 public class MathUtils {
     public static double average(int a, int b) {
         float result = (a+b)/2;

@@ -1,3 +1,4 @@
+package BasicPrograms;
 //convert given binary value to octal
 
 public class binaryToOctal {

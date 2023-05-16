@@ -1,19 +1,22 @@
 package ExceptionHandling;
+
 import java.util.*;
+
 
 public class Exception {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
+        try 
+            {
         System.out.println("ENter numerator : ");
         int a = sc.nextInt();
 
         System.out.println("ENter denominator : ");
         int b = sc.nextInt();
 
-        try 
-            {
-                int i = computeDivision(a, b);
-                System.out.println("result = " + i);
+         int i = computeDivision(a, b);
+        System.out.println("result = " + i);
             }
         catch(ArithmeticException e)
             {
